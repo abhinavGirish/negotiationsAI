@@ -40,10 +40,10 @@ const Home = () => {
             <div className="container">
                 <div className="header">
                     <div className="header-title">
-                        <h1>GPT3 Management Writing</h1>
+                        <h1>Welcome to Negotiations AI!</h1>
                     </div>
                     <div className="header-subtitle">
-                        <h2>Helping you think and communicate structurally</h2>
+                        <h2>Helping you think and negotiate your offer better</h2>
                     </div>
                 </div>
                 <div className="prompt-container">
